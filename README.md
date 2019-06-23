@@ -1,1 +1,1 @@
-# code_snippets
+# :books: CODE SNIPPETS :books:
